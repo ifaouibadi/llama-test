@@ -6,3 +6,5 @@ python-dotenv
 chromadb
 huggingface_hub
 sentence-transformers
+llama-cpp-python
+Flask
